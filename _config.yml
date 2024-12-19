@@ -1,21 +1,21 @@
-name: Sound of Text Tutorial
-title: Sound of Text Tutorial
-description: Free Google text to speech documentation by sound of text team
+name: Download Nada Dering MP3
+title: Download Nada Dering MP3
+description: Kumpulan link Download Nada Dering MP3 gratis untuk hp Android dan iPhone
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 baseurl: ''
-google_analytics: 'UA-209667013-4'
+google_analytics: ''
 include:
   - _pages
 permalink: '/:title/'
 authors:
-  techidn:
-    name: Soundtext
-    display_name: Soundtext
-    email: soundtext@emzeth.com
+  nadadering:
+    name: Nada Dering
+    display_name: Nada Dering
+    email: nadadering@emzeth.com
     twitter: ''
-    description: "Convert text into speech with Google speech synthesis engine"
-    web: "https://soundtext.github.io"
+    description: "Free download audio WhatsApp ringtone mp3"
+    web: "https://nada-dering.github.io"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
